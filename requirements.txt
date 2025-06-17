@@ -1,0 +1,6 @@
+streamlit
+pymupdf
+spacy
+transformers
+pandas
+plotly
