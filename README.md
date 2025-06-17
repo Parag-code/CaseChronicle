@@ -60,3 +60,9 @@ Streamlit-based frontend for easy and intuitive PDF uploads and result display.
 > A Plotly chart showing events such as case filing, hearing dates, evidence submissions, and verdicts.
 
 ---
+
+## ⭐ Acknowledgements
+
+- 🤗 [Hugging Face Transformers] – for providing state-of-the-art NLP models used in summarization and event extraction.
+- 📊 [Plotly] – for enabling rich, interactive timeline visualizations.
+- 🌐 [Streamlit] – for building a fast and intuitive web interface.
