@@ -50,3 +50,13 @@ Streamlit-based frontend for easy and intuitive PDF uploads and result display.
   - `PyMuPDF` or similar (for PDF parsing)
   - `spaCy` / `transformers` (for NLP tasks)
   - `Plotly` (for interactive timeline charts)
+
+## 📸 Example Output
+
+- **Generated Case Summary**:  
+> "The petitioner filed a writ challenging the dismissal order issued on Jan 3, 2021. A hearing was held on Feb 5, 2021..."
+
+- **Interactive Timeline**:  
+> A Plotly chart showing events such as case filing, hearing dates, evidence submissions, and verdicts.
+
+---
