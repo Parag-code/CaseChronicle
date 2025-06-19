@@ -15,7 +15,8 @@ st.set_page_config(page_title="CaseChronicle", layout="wide")
 # Logo and Title Section
 col1, col2 = st.columns([1, 4])
 with col1:
-    st.image("UI/logo.png", width=200)
+    logo_path = os.path.join(os.path.dirname(__file__), "logo.png")
+    st.image(logo_path, width=200)
 with col2:
     st.title("⚖️ CaseChronicle – AI Legal Case Timeline Generator")
 
